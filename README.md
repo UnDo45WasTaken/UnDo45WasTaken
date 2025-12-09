@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**UnDo45WasTaken/UnDo45WasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Kanz0u, a studying Programmer from the Philippines.
 
-Here are some ideas to get you started:
+I wanna build and design whatever i can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+my Current Skills which I'm still bad at:
+Python
+GDScript
+Lua (ROBLOX)
+
+what i wanna learn in the future:
+C++
+Python
+
+## FUN FACT!:
+i have 1 cat... kewl.
